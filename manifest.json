@@ -1,0 +1,14 @@
+{
+  "name": "AI Class Progress",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Automatically save your progress on www.ai-class.com without registering.",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.ai-class.com/home*",
+        "*://www.ai-class.com/course*"],
+      "js": ["progress.js"]
+    }
+  ]
+}
