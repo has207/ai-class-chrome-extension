@@ -1,6 +1,8 @@
 ai-class-chrome-extension
 =========================
 
+(ai-class.com has been broken for a while, but the class is now available at https://www.udacity.com/course/cs271)
+
 Chrome extension to "unlock" www.ai-class.com for unregistered users.
 
 v. 0.2 (not yet in the Chrome store)
